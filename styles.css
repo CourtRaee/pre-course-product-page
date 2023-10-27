@@ -161,7 +161,7 @@ body {
   background-color: navy;
   font-weight: 700;
   font-size: 1rem;
-  color: var(--white);
+  color: var(--orange);
   display: flex;
   flex-direction: row;
   justify-content: center;

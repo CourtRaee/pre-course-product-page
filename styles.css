@@ -168,10 +168,12 @@ body {
   align-items: center;
   border-radius: 2vmin;
   padding: 2vh;
+  text-align: center;
 }
 
 .add-to-cart img {
   height: 100%;
   filter: brightness(0) saturate(100%) invert(1);
   margin-right: var(--small-padding);
+  align-items: center;
 }

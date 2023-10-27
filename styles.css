@@ -158,10 +158,10 @@ body {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
-  background-color: navy;
+  background-color: var(--orange);
   font-weight: 700;
   font-size: 1rem;
-  color: var(--orange);
+  color: var(--white);
   display: flex;
   flex-direction: row;
   justify-content: center;
